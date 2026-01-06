@@ -152,7 +152,3 @@
         };
     };
 };
-&pointing {
-    invert-x;
-    invert-y;
-};
