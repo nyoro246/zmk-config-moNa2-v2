@@ -152,3 +152,7 @@
         };
     };
 };
+&trackball_central {
+    invert-x;
+    invert-y;
+};
